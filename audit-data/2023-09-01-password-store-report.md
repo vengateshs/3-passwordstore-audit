@@ -1,7 +1,7 @@
 ---
 title: PasswordStore Audit Report
-author: YOUR_NAME_HERE
-date: September 1, 2023
+author: Vengatesh S
+date: December 26, 2023
 header-includes:
   - \usepackage{titling}
   - \usepackage{graphicx}
@@ -17,7 +17,6 @@ header-includes:
     \vspace{1cm}
     {\Large Version 0.1\par}
     \vspace{2cm}
-    {\Large\itshape Cyfrin.io\par}
     \vfill
     {\large \today\par}
 \end{titlepage}
@@ -26,10 +25,11 @@ header-includes:
 
 # PasswordStore Audit Report
 
-Prepared by: YOUR_NAME_HERE
+Prepared by: Vengatesh S
+
 Lead Auditors: 
 
-- [YOUR_NAME_HERE](enter your URL here)
+- [Vengatesh S](enter your URL here)
 
 Assisting Auditors:
 
@@ -42,7 +42,7 @@ Assisting Auditors:
 
 - [PasswordStore Audit Report](#passwordstore-audit-report)
 - [Table of contents](#table-of-contents)
-- [About YOUR\_NAME\_HERE](#about-your_name_here)
+- [About Vengatesh](#about-your_name_here)
 - [Disclaimer](#disclaimer)
 - [Risk Classification](#risk-classification)
 - [Audit Details](#audit-details)
@@ -67,13 +67,13 @@ Assisting Auditors:
 </details>
 </br>
 
-# About YOUR_NAME_HERE
+# About Vengatesh
 
 <!-- Tell people about you! -->
 
 # Disclaimer
 
-The YOUR_NAME_HERE team makes all effort to find as many vulnerabilities in the code in the given time period, but holds no responsibilities for the the findings provided in this document. A security audit by the team is not an endorsement of the underlying business or product. The audit was time-boxed and the review of the code was solely on the security aspects of the solidity implementation of the contracts.
+The Vengatesh team makes all effort to find as many vulnerabilities in the code in the given time period, but holds no responsibilities for the the findings provided in this document. A security audit by the team is not an endorsement of the underlying business or product. The audit was time-boxed and the review of the code was solely on the security aspects of the solidity implementation of the contracts.
 
 # Risk Classification
 
